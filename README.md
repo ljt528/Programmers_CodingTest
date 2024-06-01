@@ -226,3 +226,7 @@ WHEN 조건2 THEN 값2
 ELSE 값3  
 END  
 DATEDIFF(datepart<생략 가능>, start, end)  
+
+- 24/06/02  
+Lv.1 1문제 해결😆  
+잡은 물고기의 평균 길이 구하기 문제 풀이, ROUND(반올림), AVG(평균 구하기), IFNULL(NULL값을 다른 값으로 치환)함수를 사용하여 문제를 풀었다. 계산 순서에 집중해서 풀어야 할 것 같다.  
